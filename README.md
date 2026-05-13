@@ -175,3 +175,7 @@ git clone [https://github.com/YOUR-USERNAME/leakage-emergence.git](https://githu
 cd leakage-emergence
 pip install -e .
 a336f0b797dc151d46f1e34a84d0ea3fa30db46b
+
+
+https://doi.org/10.5281/zenodo.20148788
+https://www.researchgate.net/publication/404788029_Leakage-Induced_Emergence_in_Projected_Linear_and_Nonlinear_Cognitive_Fields
